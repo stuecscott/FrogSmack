@@ -1,4 +1,5 @@
 Specific Vehicle Problem Investigation Prompt 2
+
 A focused automotive research prompt for buyers who already have a specific vehicle in mind and want a mechanic-style failure analysis before purchasing.
 
 Instead of asking broad questions about whether a model is “good,” this prompt investigates a particular year, make, model, and engine to uncover the real-world problems that matter most in ownership. It is designed to pull together reliability history, recurring failures, repair costs, recall patterns, and mechanic opinions so buyers can make smarter decisions before committing to a vehicle.
