@@ -1,4 +1,5 @@
 # Specific Vehicle Problem Investigation Prompt 2
+A targeted automotive failure-analysis prompt for researching a vehicle you already have in mind. It investigates major mechanical problems, electrical issues, repair costs, recalls, longevity, and mechanic opinions to determine whether a specific year, make, model, and engine is a safe buy, caution buy, or avoid.
 
 A focused automotive research prompt for buyers who already have a specific vehicle in mind and want a mechanic-style failure analysis before purchasing.
 
