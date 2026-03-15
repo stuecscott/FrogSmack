@@ -1,4 +1,4 @@
-Specific Vehicle Problem Investigation Prompt 2
+# Specific Vehicle Problem Investigation Prompt 2
 
 A focused automotive research prompt for buyers who already have a specific vehicle in mind and want a mechanic-style failure analysis before purchasing.
 
